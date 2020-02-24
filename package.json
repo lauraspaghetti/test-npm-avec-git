@@ -1,0 +1,19 @@
+{
+  "name": "test-npm-avec-git",
+  "version": "1.0.0",
+  "description": "Petit projet pour illustrer comment bien réutiliser npm avec git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauraspaghetti/test-npm-avec-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauraspaghetti/test-npm-avec-git/issues"
+  },
+  "homepage": "https://github.com/lauraspaghetti/test-npm-avec-git#readme"
+}
